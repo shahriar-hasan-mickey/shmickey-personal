@@ -9,7 +9,8 @@ redirect_from:
 
 Research Assistant & Adjunct Lecturer <br>
 [Department of Computer Science and Engineering at BRAC University](https://cse.sds.bracu.ac.bd/) <br>
-[shahriar.mickey@bracu.ac.bd](shahriar.mickey@bracu.ac.bd)<br>
+CSE Dept. 4th floor, Room # 4P, BRAC University, Merul Badda, Dhaka, Bangladesh
+email: shahriar.mickey@bracu.ac.bd<br>
 <br>
 Software Engineer <br>
 [RSI Lab](https://www.rsi-lab.com/) <br>
