@@ -6,8 +6,8 @@
 
 main:
 
-  # - title: "Home"
-  #   url: /
+  - title: "Home"
+    url: /
     
   - title: "Publications"
     url: /publications/
