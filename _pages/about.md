@@ -10,8 +10,8 @@ redirect_from:
 Research Assistant & Adjunct Lecturer <br>
 [Department of Computer Science and Engineering at BRAC University](https://cse.sds.bracu.ac.bd/) <br>
 [shahriar.mickey@bracu.ac.bd](shahriar.mickey@bracu.ac.bd)<br>
-<br>
-Software Engineer at RSI Lab <br>
+Software Engineer
+[RSI Lab](https://www.rsi-lab.com/) <br>
 [shahriar.hasan.mickey@rsi-lab.com](shahriar.hasan.mickey@rsi-lab.com) <br>
 <br>
 [Academic Website](https://cse.sds.bracu.ac.bd/faculty_profile/374/shahriar_hasan_mickey) 
@@ -25,6 +25,7 @@ Research Interests
 ======
 - Compiler
 - Operating System
+- Hardware / Software co-design and security
 - Binary Instrumentation and Binary analysis
 - Hardware Security and Microarchitectural attack
-- Hardware / Software co-design and security
+
