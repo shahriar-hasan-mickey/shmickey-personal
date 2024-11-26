@@ -20,8 +20,8 @@ He is also working as a Software Developer at RSI Lab. He has earned his Undergr
 
 Research Interests
 ======
--Compiler
--Operating System
--Binary Instrumentation and Binary analysis
--Hardware Security and Microarchitectural attack
--Hardware / Software co-design and security
+- Compiler
+- Operating System
+- Binary Instrumentation and Binary analysis
+- Hardware Security and Microarchitectural attack
+- Hardware / Software co-design and security
