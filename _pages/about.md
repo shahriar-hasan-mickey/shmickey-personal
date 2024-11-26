@@ -19,7 +19,7 @@ Software Engineer at RSI Lab <br>
 Short Bio
 ======
 Shahriar Hasan Mickey has joined the Department of Computer Science and Engineering of BRAC University as a Research Assistant and as an Adjunct Lecturer. <br>
-He is also working as a Software Developer at RSI Lab. He has earned his Undergraduate degree from BRAC University in Computer Science.
+He is also working as a Software Developer at RSI Lab. He has earned his Undergraduate degree from BRAC University in Computer Science under the supervision of [Professor Yan](https://cse.sds.bracu.ac.bd/faculty_profile/188/dr_muhammad_nur_yanhaona).
 
 Research Interests
 ======
