@@ -24,7 +24,7 @@ author:
   avatar           : "cd-259040.jpg"
   name             : "SHAHRIAR HASAN MICKEY"
   pronouns         : # example: "she/her"  
-  bio              : "System Security Researcher"
+  bio              : #"Systems Security Researcher"
   location         : #"CSE Dept. 4th floor, Room # 4P, BRAC University, Merul Badda, Dhaka, Bangladesh"
   employer         : #"BRAC University"
   uri              : https://cse.sds.bracu.ac.bd/faculty_profile/374/shahriar_hasan_mickey # URL
