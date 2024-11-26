@@ -25,9 +25,9 @@ author:
   name             : "SHAHRIAR HASAN MICKEY"
   pronouns         : # example: "she/her"  
   bio              : "System Security Researcher"
-  location         : "CSE Department, 4th floor, Room No # 4P, Brac University, Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka, Bangladesh"
-  employer         : "BRAC University"
-  uri              : # URL
+  location         : #"CSE Dept. 4th floor, Room # 4P, BRAC University, Merul Badda, Dhaka, Bangladesh"
+  employer         : #"BRAC University"
+  uri              : https://cse.sds.bracu.ac.bd/faculty_profile/374/shahriar_hasan_mickey # URL
   email            : "shahriar.mickey@bracu.ac.bd" 
 
   # Academic websites
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "@shahriarhasanmickey5960" # Username
+  youtube          : "shahriarhasanmickey5960" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
