@@ -14,8 +14,7 @@ Research Assistant & Adjunct Lecturer <br>
 Software Engineer <br>
 [RSI Lab](https://www.rsi-lab.com/) <br>
 [shahriar.hasan.mickey@rsi-lab.com](shahriar.hasan.mickey@rsi-lab.com) <br>
-<br>
-[Academic Website](https://cse.sds.bracu.ac.bd/faculty_profile/374/shahriar_hasan_mickey) 
+
 
 Short Bio
 ======
