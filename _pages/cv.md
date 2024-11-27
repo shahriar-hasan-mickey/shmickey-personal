@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* September 2024 - Present : ***Research Assistant***
+* ***Research Assistant*** : September 2024 - Present
   * BRAC University
   *  Currently working on :
     * Supervising Undergraduate students 
@@ -23,19 +23,19 @@ Work experience
     * Binary Analysis on Mobile Devices
   * Supervisor: Dr. Muhammad Nur Yanhaona
     
-* October 2024 - Present : ***Adjunction Faculty***
+* ***Adjunction Faculty*** : October 2024 - Present
   * BRAC University
   * Instructor of the following courses:
     * Operating Systems, Data Structure, Microprocessor(x86)
 
-* August 2024 - Present : ***Software Engineer***
+* ***Software Engineer*** : August 2024 - Present
   * RSI Lab
   * Duties included:
     * Development and Maintenance
     * Source code debugging
     * Automation to data processing system
  
-* October 2023 - March 2024 : ***ST (Student Tutor)***
+* ***ST (Student Tutor)*** : October 2023 - March 2024
   * BRAC University
   * Duties include :
     * Mentored students of Data Structure and Algorithm Courses.
