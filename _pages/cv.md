@@ -17,10 +17,11 @@ Work experience
 ======
 * ***Research Assistant*** : September 2024 - Present
   * BRAC University
-  * Currently working on :
-    * Supervising Undergraduate students 
-    * DCA attack on whitebox cryptography using DBI (dynamic binary instrumentation)
-    * Binary Analysis on Mobile Devices
+  * Duties include :
+    * Supervising Undergraduate students
+    * Conducting research. Currently working on : 
+      * DCA attack on whitebox cryptography using DBI (dynamic binary instrumentation)
+      * Binary Analysis on Mobile Devices
   * Supervisor: Dr. Muhammad Nur Yanhaona
     
 * ***Adjunction Faculty*** : October 2024 - Present
