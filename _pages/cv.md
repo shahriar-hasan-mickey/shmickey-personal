@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Computer Science, BRAC University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2024 - Present : Research Assistant
+  * BRAC University
+  *  Currently working on :
+    * Supervising Undergraduate students 
+    * DCA attack on whitebox cryptography using DBI (dynamic binary instrumentation)
+    * Binary Analysis on Mobile Devices
+  * Supervisor: Dr. Muhammad Nur Yanhaona
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2024 - Present : Adjunction Faculty
+  * BRAC University
+  * Instructor of the following courses:
+    * Operating Systems | Data Structure | Microprocessor(x86)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2024 - Present : Software Engineer
+  * RSI Lab
+  * Duties included:
+    * Development and Maintenance
+    * Source code debugging
+    * Automation to data processing system
+ 
+* October 2023 - March 2024 : ST (Student Tutor)
+  * BRAC University
+  * Duties include :
+    * Mentored students of Data Structure and Algorithm Courses.
+    * Checked Assignments scripts based on Python, Java and C++
 
 Publications
 ======
@@ -47,11 +47,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research Interests
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* C/C++
+* Assembly
+  * 
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
   
 Teaching
 ======
@@ -59,6 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
