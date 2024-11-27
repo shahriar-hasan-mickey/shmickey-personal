@@ -2,8 +2,8 @@
 title: "HighP5: Programming using Partitioned Parallel Processing Spaces"
 collection: publications
 category: journal
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/2024-HighP5:-Programming-using-Partitioned-Parallel-Processing-Spaces
+excerpt: 'This paper is the first comprehensive description of HighP5’s design rationale, language grammar, and core features.'
 date: 2024
 venue: 'Journal of the Brazilian Computer Society'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
