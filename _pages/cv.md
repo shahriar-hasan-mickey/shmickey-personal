@@ -15,32 +15,32 @@ Education
 
 Work experience
 ======
-* September 2024 - Present : Research Assistant
+* September 2024 - Present : ***Research Assistant***
   * BRAC University
   *  Currently working on :
     * Supervising Undergraduate students 
     * DCA attack on whitebox cryptography using DBI (dynamic binary instrumentation)
     * Binary Analysis on Mobile Devices
   * Supervisor: Dr. Muhammad Nur Yanhaona
-<br>
-* October 2024 - Present : Adjunction Faculty
+    
+* October 2024 - Present : ***Adjunction Faculty***
   * BRAC University
   * Instructor of the following courses:
     * Operating Systems, Data Structure, Microprocessor(x86)
-<br>
-* August 2024 - Present : Software Engineer
+
+* August 2024 - Present : ***Software Engineer***
   * RSI Lab
   * Duties included:
     * Development and Maintenance
     * Source code debugging
     * Automation to data processing system
- <br>
-* October 2023 - March 2024 : ST (Student Tutor)
+ 
+* October 2023 - March 2024 : ***ST (Student Tutor)***
   * BRAC University
   * Duties include :
     * Mentored students of Data Structure and Algorithm Courses.
     * Checked Assignments scripts based on Python, Java and C++
-<br>
+
 
 Publications
 ======
