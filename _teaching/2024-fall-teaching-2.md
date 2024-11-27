@@ -1,7 +1,7 @@
 ---
 title: "Microprocessor (x86)"
 collection: teaching
-type: "teaching"
+type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "BRAC University, Department of Computer Science & Engineering"
 date: 2024-10-22
