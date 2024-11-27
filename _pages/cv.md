@@ -17,7 +17,7 @@ Work experience
 ======
 * ***Research Assistant*** : September 2024 - Present
   * BRAC University
-  *  Currently working on :
+  * Currently working on :
     * Supervising Undergraduate students 
     * DCA attack on whitebox cryptography using DBI (dynamic binary instrumentation)
     * Binary Analysis on Mobile Devices
