@@ -3,7 +3,7 @@ title: "An investigation of the Online Payment and Banking System Apps in Bangla
 collection: publications
 category: manuscripts
 permalink: /publication/2024-An-investigation-of-the-Online-Payment-and-Banking-System-Apps-in-Bangladesh
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about conducting static and dynamic analysis of the android applications using available open-source analyzers and opensource tools.'
 date: 2024-05-28
 venue: 'Undergraduate Thesis'
 
