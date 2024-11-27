@@ -49,13 +49,10 @@ Publications
   
 Research Interests
 ======
-* C/C++
-* Assembly
-  * 
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Binary Instrumentation and Analysis
+* Compiler and Program Analysis
+* Hardware Security and Microarchitectural attack
+* Operating system and kernel security
   
 Teaching
 ======
