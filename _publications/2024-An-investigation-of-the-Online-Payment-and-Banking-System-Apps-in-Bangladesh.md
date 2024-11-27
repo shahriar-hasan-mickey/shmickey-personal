@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-An-investigation-of-the-Online-Payment-and-Banking-System-Apps-in-Bangladesh
 excerpt: 'This paper is about conducting static and dynamic analysis of the android applications using available open-source analyzers and opensource tools.'
 date: 2024-05-28
-venue: 'Undergraduate Thesis'
+venue: 'arXive'
 
 paperurl: 'https://arxiv.org/pdf/2407.07766'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
