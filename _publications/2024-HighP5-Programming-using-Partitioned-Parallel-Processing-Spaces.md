@@ -8,7 +8,7 @@ date: 2024-10-10
 venue: 'Journal of the Brazilian Computer Society'
 
 
-citation: 'Yanhaona, Muhammad Nur; Grimshaw, Andrew; Mickey, Shahriar Hasan, You. (2024). &quot;Paper Title Number 3.&quot; <i>Journal of the Brazilian Computer Society</i>. 1(3).'
+citation: 'Yanhaona, Muhammad Nur; Grimshaw, Andrew; Mickey, Shahriar Hasan, You. (2024). &quot;HighP5: Programming using Partitioned Parallel Processing Spaces.&quot; <i>Journal of the Brazilian Computer Society</i>. 1(2).'
 ---
 
 HighP5 is a new high-level parallel programming language designed to help software developers to
