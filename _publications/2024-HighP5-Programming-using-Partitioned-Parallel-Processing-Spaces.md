@@ -1,7 +1,7 @@
 ---
 title: "HighP5: Programming using Partitioned Parallel Processing Spaces"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-HighP5-Programming-using-Partitioned-Parallel-Processing-Spaces
 excerpt: "This paper is the first comprehensive description of HighP5's design rationale, language grammar, and core features."
 date: 2024-10-10
