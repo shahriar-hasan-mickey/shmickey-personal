@@ -1,5 +1,5 @@
 ---
-title: "HighP5: Programming using Partitioned Parallel Processing Spaces"
+title: "HighP5: Programming using Partitioned Parallel Processing Spaces (Submission Accepted)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-HighP5-Programming-using-Partitioned-Parallel-Processing-Spaces
