@@ -6,7 +6,6 @@ permalink: /publication/2024-HighP5-Programming-using-Partitioned-Parallel-Proce
 excerpt: "This paper is the first comprehensive description of HighP5's design rationale, language grammar, and core features."
 date: 2024-10-10
 venue: 'Journal of the Brazilian Computer Society'
-paperurl: 'https://shahriar-hasan-mickey.github.io/shmickey-personal/publication/2024-HighP5-Programming-using-Partitioned-Parallel-Processing-Spaces'
 
 citation: 'Yanhaona, Muhammad Nur; Grimshaw, Andrew; Mickey, Shahriar Hasan, You. (2024). &quot;HighP5: Programming using Partitioned Parallel Processing Spaces.&quot; <i>Journal of the Brazilian Computer Society</i>. 1(2).'
 ---
