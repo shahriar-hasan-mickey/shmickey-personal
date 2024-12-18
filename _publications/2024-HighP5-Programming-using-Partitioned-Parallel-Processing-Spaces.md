@@ -8,7 +8,7 @@ date: 2024-12-17
 venue: 'Journal of the Brazilian Computer Society'
 
 paperurl:  'https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4345/3038'
-citation: 'Yanhaona, Muhammad Nur; Grimshaw, Andrew; Mickey, Shahriar Hasan, You. (2024). &quot;HighP5: Programming using Partitioned Parallel Processing Spaces.&quot; <i>Journal of the Brazilian Computer Society</i>. 1(2).'
+citation: 'Yanhaona, Muhammad Nur; Grimshaw, Andrew; Mickey, Shahriar Hasan. (2024). &quot;HighP5: Programming using Partitioned Parallel Processing Spaces.&quot; <i>Journal of the Brazilian Computer Society</i>. Vol. 30 No. 1 (2024).'
 ---
 
 HighP5 is a new high-level parallel programming language designed to help software developers to
