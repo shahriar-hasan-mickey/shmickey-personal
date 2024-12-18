@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-HighP5-Programming-using-Partitioned-Parallel-Processing-Spaces
 excerpt: "This paper is the first comprehensive description of HighP5's design rationale, language grammar, and core features."
-date: 2024-10-10
+date: 2024-12-17
 venue: 'Journal of the Brazilian Computer Society'
 
 paperurl:  'https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4345/3038'
