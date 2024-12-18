@@ -7,6 +7,7 @@ excerpt: "This paper is the first comprehensive description of HighP5's design r
 date: 2024-10-10
 venue: 'Journal of the Brazilian Computer Society'
 
+paperurl:  'https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4345/3038'
 citation: 'Yanhaona, Muhammad Nur; Grimshaw, Andrew; Mickey, Shahriar Hasan, You. (2024). &quot;HighP5: Programming using Partitioned Parallel Processing Spaces.&quot; <i>Journal of the Brazilian Computer Society</i>. 1(2).'
 ---
 
