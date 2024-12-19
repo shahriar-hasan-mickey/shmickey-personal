@@ -8,7 +8,7 @@ date: 2024-05-28
 venue: 'arXive'
 
 paperurl: 'https://arxiv.org/pdf/2407.07766'
-citation: 'Mickey, Shahriar Hasan & Yanhaona, Muhammod Nur (2024). &quot;An investigation of the Online Payment and Banking System Apps in Bangladesh.&quot; <i>arXive</i>. 1(1).'
+citation: 'Mickey, S.H. & Yanhaona, M.N. (2024). &quot;An investigation of the Online Payment and Banking System Apps in Bangladesh.&quot; <i>arXive</i>. https://doi.org/10.48550/arXiv.2407.07766.'
 ---
 
 Presently, Bangladesh is expending substantial efforts to digitize its national infrastructure,
